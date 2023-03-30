@@ -11,6 +11,5 @@ python main.py
 ## Documentation
 [Dash Official](https://dash.plotly.com/)
 
-
 [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/)
 
